@@ -9,8 +9,6 @@ public:
     int item1;
     int item2;
     int item3;
-
-
 };
 
 TripleInt::TripleInt(int i1, int i2, int i3)
