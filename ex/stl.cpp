@@ -1,10 +1,14 @@
 #include <iostream>
 #include <vector>
+#include <list>
 using namespace std;
-
 
 int main()
 {
-    vector<int> vec = {22, 26};
+vector<int>::iterator it;
+for(it = myvec.begin(); it != my_vec.end(); ++it)
+{
+
+}
 
 }
